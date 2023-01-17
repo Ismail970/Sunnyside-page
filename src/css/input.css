@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+    background-image: url("../src/images/desktop/image-header.jpg");
+}
+
+@media (max-width: 500px) {
+    .header {
+        background-image: url("../src/images/mobile/image-header.jpg");
+    }
+}
