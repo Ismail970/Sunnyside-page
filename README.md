@@ -19,9 +19,8 @@
 ## Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS
+- [Tailwind](https://tailwindcss.com/)
+- [Jquery](https://jquery.com/)
+- [Parcel](https://parceljs.org/)
 - Mobile-first workflow
-- Tailwind
-- Javascript ES6+
