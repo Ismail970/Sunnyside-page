@@ -14,7 +14,7 @@
 
 ## Links
 
-- [Live Site](https://www.sunnyside-agency-i.netlify.app)
+- [Live Site](https://sunnyside-agency-i.netlify.app/)
 
 ## Built with
 
