@@ -1,20 +1,12 @@
 # Sunnyside agency landing page
 
-## Table of contents
-
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
+- [Demo](https://sunnyside-agency-i.netlify.app/)
 
 ## Screenshot
 
 ![](screenshots/Sunnyside-agency.png)
 
 ![](screenshots/Sunnyside-agency-m.png)
-
-## Links
-
-- [Live Site](https://sunnyside-agency-i.netlify.app/)
 
 ## Built with
 
